@@ -2,7 +2,7 @@
 
 **Data Engineer & Informatics Student** | Based in Istanbul 🇹🇷
 
-Passionate about bridging the gap between architectural and modern data engineering. I build robust ETL pipelines, cloud-native backends, and experiment with Reinforcement Learning.
+Passionate about bridging the gap between architectur and modern data engineering. I build robust ETL pipelines, cloud-native backends, and experiment with Reinforcement Learning.
 
 ---
 
