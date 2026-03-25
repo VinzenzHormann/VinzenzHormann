@@ -12,12 +12,12 @@ Passionate about bridging the gap between architectur and modern data engineerin
 **Cloud:** GCP (BigQuery), AWS  
 
 ### Featured Projects
-* **[CLV Pipeline]**: An end-to-end data engineering project using Airflow and BigQuery to predict Customer Lifetime Value via probabilistic ML.
-* **[Freya Art Route]**: a web app generating Art Routes in Beyoğlu (the european district of Istanbul).
-* **[Ticket to Ride RL]**: Implementation of a custom Gymnasium environment for the board game *Ticket to Ride*, trained using Q-learning.
+* **CLV Pipeline** https://github.com/VinzenzHormann/CLV_data_pipeline: An end-to-end data engineering project using Airflow and BigQuery to predict Customer Lifetime Value via probabilistic ML.
+* **Freya Art Route** https://github.com/VinzenzHormann/freya-art-route: a web app generating Art Routes in Beyoğlu (the european district of Istanbul).
+* **Ticket to Ride RL** https://github.com/VinzenzHormann/ticket_to_ride_AI_RL: Implementation of a custom Gymnasium environment for the board game *Ticket to Ride*, trained using Q-learning.
 
 ### Current Focus
 * B.Sc. Informatics @ FernUni Hagen
 * Freya Art Route
 
-**Reach me at:** [vinzenzhormann@yahoo.com]
+**Reach me at:** vinzenzhormann@yahoo.com
