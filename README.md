@@ -4,8 +4,6 @@
 
 Passionate about bridging the gap between architectur and modern data engineering. I build robust ETL pipelines, cloud-native backends, and experiment with Reinforcement Learning.
 
----
-
 ### Tech Stack
 **Languages:** Python, SQL  
 **Tools:** Apache Airflow, Docker, FastAPI, Git  
