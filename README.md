@@ -10,8 +10,6 @@ ML territory when the problem calls for it.
 Currently pursuing a **B.Sc. in Informatics at FernUniversität Hagen** while working 
 at the Goethe-Institut Istanbul and building projects on the side.
 
----
-
 ## Tech Stack
 
 **Languages:** Python, SQL  
@@ -19,8 +17,6 @@ at the Goethe-Institut Istanbul and building projects on the side.
 **Cloud:** GCP (BigQuery, Cloud Storage, Cloud Scheduler), AWS (Lambda, S3, EventBridge)  
 **ML/Data:** Pandas, NumPy, Scikit-learn, TensorFlow, PySpark  
 **Other:** Git, web scraping (BeautifulSoup, Selenium), NLP (NLTK)
-
----
 
 ## Featured Projects
 
@@ -41,8 +37,6 @@ Optimized training from 5 to ~500 episodes/minute via GPU acceleration.
 Serverless pipeline ingesting real-time sensor data via Lambda + EventBridge, stored 
 as Parquet in S3.
 
----
-
 ## What I'm Looking For
 
 I'm interested in roles at the intersection of **data engineering, urban data, and 
@@ -50,8 +44,6 @@ built environment analytics** — particularly where an architecture background 
 value: BIM, GIS, smart cities, or spatial data pipelines.
 
 Open to **remote Working-Student or junior data engineering positions.**
-
----
 
 ## Reach me at
 vinzenzhormann@yahoo.com
