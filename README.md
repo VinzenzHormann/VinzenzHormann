@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vinzenz
 
-<!--
-**VinzenzHormann/VinzenzHormann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer & Informatics Student** | Based in Istanbul 🇹🇷
 
-Here are some ideas to get you started:
+Passionate about bridging the gap between architectural and modern data engineering. I build robust ETL pipelines, cloud-native backends, and experiment with Reinforcement Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, SQL 
+**Tools:** Apache Airflow, Docker, FastAPI, Git  
+**Cloud:** GCP (BigQuery), AWS  
+
+### 🚀 Featured Projects
+* **[CLV Pipeline]**: An end-to-end data engineering project using Airflow and BigQuery to predict Customer Lifetime Value via probabilistic ML.
+* **[Freya Art Route]**: a web app generating Art Routes in Beyoğlu (the european district of Istanbul).
+* **[Ticket to Ride RL]**: Implementation of a custom Gymnasium environment for the board game *Ticket to Ride*, trained using Q-learning.
+
+
+### 🎓 Current Focus
+* B.Sc. Informatics @ FernUni Hagen
+* Freya Art Route
+
+**Reach me at:** [vinzenzhormann@yahoo.com]
