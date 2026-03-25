@@ -7,7 +7,7 @@ Passionate about bridging the gap between architectur and modern data engineerin
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, SQL 
+**Languages:** Python, SQL  
 **Tools:** Apache Airflow, Docker, FastAPI, Git  
 **Cloud:** GCP (BigQuery), AWS  
 
